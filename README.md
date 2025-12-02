@@ -48,12 +48,7 @@ https://docs.google.com/spreadsheets/d/1MYlJpwkRHjZeGte8oyRY5TBtgdscaNUbLJtmvQX6
 Веб-тестирование
 
 https://docs.google.com/spreadsheets/d/1OiS_BXe587HckH2KIPe82eLmibAIzSvyfxP38x5__sc/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1g6pgUeGsBPRjP5M65hto8gjEBO4YB0iBcY8Sxw4XO8Q/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/17y8IcEdruDb3vMIvpgS-mQmzSdVDA7og6jKdd9Y2olU/edit?usp=sharing
 
-Тестирование API
-
-https://docs.google.com/spreadsheets/d/1wNeftuTNpBcu8np39bMAuwcUKeJEj5MRnlQUzRgTQTQ/edit?usp=sharing
 
 
 
