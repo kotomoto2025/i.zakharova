@@ -57,6 +57,9 @@ API - тестирование
 
 https://docs.google.com/spreadsheets/d/1wNeftuTNpBcu8np39bMAuwcUKeJEj5MRnlQUzRgTQTQ/edit?usp=sharing
 
+Отчеты о тестировании
 
+https://disk.yandex.ru/i/0xE3QZx6NfHokw
+https://disk.yandex.ru/d/LdvLtucwz5VP5Q
 
 
